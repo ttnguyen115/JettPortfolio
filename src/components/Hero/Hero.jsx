@@ -17,7 +17,7 @@ const Hero = (props) => (
             </SectionText>
 
             <Button>
-                <a href="/Nguyen Thanh Trung CV.pdf" download="Nguyen Thanh Trung CV.pdf" style={{color: 'white'}}>
+                <a href="/Nguyễn Thành Trung CV.pdf" download="Nguyễn Thành Trung CV.pdf" style={{color: 'white'}}>
                     Download my CV
                 </a>
             </Button>
